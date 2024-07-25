@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32939186371",
+    "project_id": "my-pizza-maker-pd-android",
+    "storage_bucket": "my-pizza-maker-pd-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32939186371:android:6130c00572ea6eafbd2a76",
+        "android_client_info": {
+          "package_name": "com.bestonegames.mypizzashop.goodpizza.business.makergame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNLnMfv0llTAKKe7JyNXZJt9POpfCDHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

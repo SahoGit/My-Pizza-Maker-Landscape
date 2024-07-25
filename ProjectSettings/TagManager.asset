@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cheek
+  - Lips
+  - Lipstick
+  - CheekShade
+  - Flour
+  - FlourUpperPoint
+  - MilkBottle
+  - MilkBottleUpperPoint
+  - YeastPack
+  - YeastPackUpperPoint
+  - WaterJug
+  - WaterJugUpperPoint
+  - OilBottle
+  - OilBottleUpperPoint
+  - Egg
+  - EggUpperPoint
+  - SugarPack
+  - SugarPackUpperPoint
+  - SaltBottle
+  - SaltBottleUpperPoint
+  - Beater
+  - Mixture
+  - RollingPin1
+  - RollingPinActive
+  - SauceBrush
+  - RoughDough
+  - Sauce
+  - CheeseBag
+  - CheeseBagUpperPoint
+  - Cleaner
+  - DirtItems
+  - Mob
+  - Water
+  - Towel
+  - WindowDirt
+  - Basket
+  - Vegetable
+  - Meat
+  - Herbs
+  - SeaFood
+  - Fruit
+  - BasketItem
+  - CuttingItemEndPoint
+  - Tomato
+  - Knife
+  - KnifeCutPoint1
+  - KnifeCutPoint2
+  - KnifeCutPoint3
+  - KnifeCutPoint4
+  - TomatoCut
+  - TomatoPlate
+  - OnionPlate
+  - Onion
+  - OnionCut
+  - OnionKnife
+  - MeatKnife
+  - MeatCut
+  - MeatPlate
+  - CapsicumKnife
+  - CapsicumCut
+  - CapsicumPlate
+  - Capsicum
+  - ItemDrag
+  - ItemSet
+  - CheckCollider
+  - DestroyCollider
+  - PizzaSauce
+  - PizzaTray
+  - BakingPizza
+  - Oven
+  - PizzaPacked
+  - Customer
+  - Dollar5Placed
+  - Dollar2Placed
+  - Dollar1Placed
+  - Dollar50Placed
+  - Dollar20Placed
+  - Dollar10Placed
+  - Dollar5
+  - Dollar2
+  - Dollar50
+  - Dollar10
+  - Dollar20
+  - Dollar1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
